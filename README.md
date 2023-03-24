@@ -1,1 +1,1 @@
-# Projects
+# Code for Master's thesis
